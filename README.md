@@ -243,14 +243,15 @@ Through this project, we gained understanding of:
 
 ## Authors
 
-[Your Team Names - 2-3 students]
+-Rebecca Fernando
+-Weijith Wimalasiri
 
 ## Course Information
 
 - **Course**: Biosignal Processing (BSP)
 - **Semester**: 7
 - **University**: University of Moratuwa
-- **Year**: 2024/2025
+- **Year**: 2025
 
 ## License
 
@@ -258,18 +259,6 @@ This project is for educational purposes as part of the BSP course.
 
 ---
 
-### Evaluation Criteria Addressed
-
-| Criteria | Status |
-|----------|--------|
-| Understanding of core BSP concepts | ✅ Demonstrated through methodology documentation |
-| Implementation work | ✅ Complete CNN-based classification system |
-| Problem-solving & challenges | ✅ Documented in this README and notebooks |
-| Understanding strengths/weaknesses | ✅ Covered in Future Improvements section |
-| Clarity of presentation | ✅ Well-structured documentation and notebooks |
-| Report formatting & flow | ✅ Logical progression through sections |
-
----
 
 **Last Updated**: December 2024  
 **Status**: Implementation Complete | Results Documented | Ready for Presentation
